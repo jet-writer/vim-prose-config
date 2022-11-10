@@ -32,7 +32,7 @@ set laststatus=2 "show status line
 set statusline=%F%m%r%h%w%=(%{&ff}/%Y)\ (line\ %l\/%L,\ col\ %c)\
 
 " Netrw settings
-let g:netrw_liststyle = 1 
+let g:netrw_liststyle = 4 
 let g:netrw_browse_split = 4
 let g:netrw_winsize = 20
 
